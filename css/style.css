@@ -1,0 +1,24 @@
+img {
+  height: 200px;
+  width: auto;
+}
+
+h3.flashy {
+  color: red;
+  font-style: italic;
+}
+
+h3.best {
+  color: #5D576B;
+  font-family: 'Coiny', cursive;
+}
+body {
+  text-align: center;
+  /*background-color: #F2E5CC;*/
+}
+h3.cheeseburger{
+  background-color: #F2E5CC;
+}
+img.cheeseburger{
+  background-color: #F2E5CC;
+}
